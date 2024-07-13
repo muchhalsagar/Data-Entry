@@ -48,19 +48,9 @@ Open a web browser and go to `http://localhost:3000` (or the port you specified)
 - **Admin Features**:
 - Access administrative features if authorized.
 
-## Contributing
-
-Contributions are welcome! Here are a few ways you can help:
-- Report bugs or errors by opening an issue.
-- Implement new features or improve existing ones by submitting pull requests.
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Thanks to [Node.js](https://nodejs.org/) and [Express](https://expressjs.com/) for the backend framework.
-- UI inspiration from [Bootstrap](https://getbootstrap.com/) and [Font Awesome](https://fontawesome.com/).
 
 

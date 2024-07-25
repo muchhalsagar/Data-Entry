@@ -1,4 +1,4 @@
-# Data Entry Application
+# Zemex Service Application
 
 This project is a Node.js application designed for efficient data entry tasks.
 
